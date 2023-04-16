@@ -1,0 +1,12 @@
+Hello , Good Afternoon ...
+How are you guy's
+lets starts the python ...
+point of python :
+1 variable 
+2 operator 
+3 conditional statement 
+4 list 
+5 tuple 
+6 dictonary
+7 set 
+8 GUI (Tkinter module)
